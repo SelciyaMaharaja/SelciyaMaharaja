@@ -14,12 +14,12 @@ I focus on robust, full-stack solutions. Here are the core technologies I use:
 
 | Category | Key Technologies |
 | :--- | :--- |
-| **Backend** | [cite_start]Java 21, **Spring Boot**, **Hibernate**, Node.js [cite: 21, 32] |
-| **Frontend** | [cite_start]**React.js**, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap [cite: 20] |
-| **Database** | [cite_start]**MySQL**, **PostgreSQL**, MongoDB [cite: 22] |
-| **DevOps/Tools** | [cite_start]Git, **Docker**, Vercel, Netlify, JUnit, Postman [cite: 23] |
+| **Backend** | Java 21, **Spring Boot**, **Hibernate**, Node.js |
+| **Frontend** | **React.js**, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap|
+| **Database** | **MySQL**, **PostgreSQL**, MongoDB |
+| **DevOps/Tools** | Git, **Docker**, Vercel, Netlify, JUnit, Postman |
 
-### Languages & Frameworks (Badge Placeholder Example)
+### Languages & Frameworks 
 
 * `![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)`
 * `![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)`
