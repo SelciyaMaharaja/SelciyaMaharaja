@@ -1,56 +1,51 @@
-# 👋 Hello, I'm Selciya Maharaja!
+# 👋 Hi, I'm Selciya
+### 💻 Java Full Stack Developer | Spring Boot | React.js | MySQL
 
-### 💻 Aspiring Java Full Stack Developer | India
-
-A results-driven developer with over **2 years of experience** in designing and building scalable applications. 
-I specialize in **Java, Spring Boot, Hibernate, and React.js**
-My focus is on backend and frontend integration, REST APIs, and cloud deployments, with a proven record of improving application efficiency by **30%**.
+I'm a passionate Java Full Stack Developer with hands-on experience building scalable and responsive web applications using **Spring Boot**, **React.js**, and **MySQL**. I love writing clean, maintainable code and constantly learning new technologies.
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-I focus on robust, full-stack solutions. Here are the core technologies I use:
-
-| Category | Key Technologies |
-| :--- | :--- |
-| **Backend** | Java 21, **Spring Boot**, **Hibernate**, Node.js |
-| **Frontend** | **React.js**, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap|
-| **Database** | **MySQL**, **PostgreSQL**, MongoDB |
-| **DevOps/Tools** | Git, **Docker**, Vercel, Netlify, JUnit, Postman |
-
---
-
-## 🚀 Featured Projects
-
-Here are a few of my recent projects demonstrating full-stack development expertise:
-
-### 1. Hotel Booking System
-* **Stack:** Java 21, Spring Boot, **MySQL**, **JWT**, React.
-* **Key Feature:** Developed secure backend APIs with **JWT authentication** and integrated a React frontend for a seamless booking flow. Used **Cursor AI** for rapid scaffolding & testing.
-* **Live Demo:https://lunarhotel.netlify.app/** 
-
-### 2. RealNest - Real Estate Platform
-* **Stack:** Spring Boot, React, **Cloudinary**.
-* **Key Feature:** Built backend APIs with **JWT authentication** & **role-based access**. Integrated Cloudinary for efficient property image management. Used **ChatGPT** for debugging & optimization.
-* **LiveDemo:https://realnestapp.netlify.app/** 
-
-### 3. Online Quiz Platform
-* **Stack:** Spring Boot, React, **PostgreSQL**.
-* **Key Feature:** Designed database schema and implemented REST APIs. Added **leaderboard** and dynamic question generation features.
-* **LiveDemo:https://frontendqui.netlify.app/**
+### 🔧 Technologies & Tools
+- **Backend:** Java, Spring Boot, Spring Security, REST APIs, JPA/Hibernate  
+- **Frontend:** React.js, JavaScript (ES6), HTML5, CSS3, Bootstrap, Tailwind  
+- **Database:** MySQL, PostgreSQL  
+- **Others:** Git, GitHub, Postman, JWT, Maven, Cloudinary  
 
 ---
 
-## 📫 Connect With Me
+### 🚀 Featured Projects
 
-| Contact Method | Details |
-| :--- | :--- |
-| **LinkedIn** |https://linkedin.com/in/selciya-maharaja-5bb368310|
-| **Portfolio** | https://portfolio-gamma-khaki.vercel.app/|
-| **GitHub** |https://github.com/SelciyaMaharaja|
-| **Email** | selciyaselci143@gmail.com |
+#### 🏠 RealNest – Real Estate Listing App
+A full-stack real estate platform where users can browse, list, and manage properties.  
+**Tech Stack:** Spring Boot, React.js, MySQL, Cloudinary, JWT  
+[🔗 Live Demo](https://clientrealnest.netlify.app/)  
 
-<p align="center">
-  <i>"Strong problem-solving abilities with a focus on application efficiency."</i>
-</p>
+#### 🏨 Hotel Booking System
+A hotel management and booking system with admin and customer roles.  
+**Tech Stack:** Spring Boot, React.js, PostgreSQL, Spring Security  
+[🔗 Live Demo](https://lunarhotel.netlify.app/)  
+
+#### 💡 Online Quiz System
+A web-based quiz platform where users can take tests and view results instantly.  
+**Features:** Admin question management, score calculation, and result dashboard.  
+**Tech Stack:** Spring Boot, React.js, MySQL  
+[🔗 Live Demo](https://frontendqui.netlify.app/)  
+
+#### 🍔 Online Food Delivery System
+A full-stack food ordering platform with restaurant listings, cart, and checkout features.  
+**Features:** User login, menu browsing, order placement, and delivery tracking.  
+**Tech Stack:** Spring Boot, React.js, MySQL, JWT Authentication  
+[🔗 Live Demo](Working on it)  
+
+#### 💰 Personal Finance Tracker
+Track income and expenses with category-wise reports and charts.  
+**Tech Stack:** React.js, Node.js, Express, MongoDB  
+[🔗 Live Demo](Working On it)  
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Selciya-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/selciya-maharaja-5bb368310)
+[![GitHub](https://img.shields.io/badge/GitHub-Selciya-black?style=flat-square&logo=github)](https://github.com/SelciyaMaharaja/SelciyaMaharaja)
+
+---
+⭐️ *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
